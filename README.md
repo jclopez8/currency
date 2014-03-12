@@ -1,0 +1,4 @@
+currency
+========
+
+Currency project grails
